@@ -24,6 +24,7 @@ JS L1 Jan Kowalski
 
 ## Laboratoria
 - [Laboratorium 1 - Wprowadzenie do Python](lab1.md)
+- [Laboratorium 2 - Funkcje](lab/02_funkcje.md)
 
 
 ## przydatne linki
