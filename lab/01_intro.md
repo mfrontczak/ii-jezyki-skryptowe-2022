@@ -1,16 +1,4 @@
-# Języki Skryptowe - Lab 1
-
-**Legenda**
-
-📖 - proszę przeczytać
-
-📝 - warte zapamiętania / zanotowania
-
-⚠️ - zwróć uwagę
-
-✏️ - zadanie do wykonania
-
-🔍 - poszukaj w internecie
+# Lab 1
 
 ## Wprowadzenie
 **Python** - Język skryptowy (język programowania wysokiego poziomu) ogólnego przeznaczenia. Do jego głównych cech zalicza się wysoką czytelność kodu źródłowego. Wspiera [programowanie wielo-paradygmatowe](https://pl.wikipedia.org/wiki/Paradygmat_programowania).
