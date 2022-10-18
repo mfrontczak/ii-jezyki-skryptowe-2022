@@ -23,8 +23,9 @@ JS L1 Jan Kowalski
 🔍 - poszukaj w internecie
 
 ## Laboratoria
-- [Laboratorium 1 - Wprowadzenie do Python](lab1.md)
-- [Laboratorium 2 - Funkcje](lab/02_funkcje.md)
+  - [Laboratorium 1 - Wprowadzenie do Python](lab/01_intro.md)
+  - [Laboratorium 2 - Funkcje](lab/02_funkcje.md)
+  - [Laboratorium 3 - Algorytmy](lab/03_algorytmy.md)
 
 
 ## przydatne linki
