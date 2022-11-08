@@ -23,10 +23,15 @@ JS L1 Jan Kowalski
 🔍 - poszukaj w internecie
 
 ## Laboratoria
-  - [Laboratorium 1 - Wprowadzenie do Python](lab/01_intro.md)
-  - [Laboratorium 2 - Funkcje](lab/02_funkcje.md)
-  - [Laboratorium 3 - Algorytmy](lab/03_algorytmy.md)
-  - [Laboratorium 4 - Wyrażenia listowe i generatory](lab/04_wyr_list_i_generatory.md)
+  - [1 - Wprowadzenie do Python](lab/01_intro.md)
+  - [2 - Funkcje](lab/02_funkcje.md)
+  - [3 - Algorytmy](lab/03_algorytmy.md)
+  - [4 - Wyrażenia listowe i generatory](lab/04_wyr_list_i_generatory.md)
+  - [5 - Pliki i wyjątki](#)
+  - [6 - ...](#)
+  - [7 - ...](#)
+  - [8 - Tworzenie modułów i paczek](lab/05_tworzenie_modulow.md)
+    
 
 ## przydatne linki
 - https://www.python.org/doc/
