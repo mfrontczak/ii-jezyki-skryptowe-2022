@@ -29,7 +29,7 @@ with open('plik.txt') as f:
 ### Serializacja obiektów
 Serializacja to proces polegający na przekształceniu obiektów na format danych pozwalających nam na zapisanie i późniejsze odtworzenie danych z pliku, bazy danych lub pamięci komputera.
 
-⚠️ Pliki do przykładów znajdują się w katalogu [materiały/lab2](materiały/lab2).
+⚠️ Pliki do przykładów znajdują się w katalogu [materiały/lab04](materiały/lab04).
 
 #### JSON
 Wczytywanie danych z pliku o formacie JSON.
