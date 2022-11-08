@@ -1,0 +1,32 @@
+{
+    "Pedagogiczne": [
+        "Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej (Warszawa)",
+        "Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza w Częstochowie",
+        "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",
+        "Akademia Pomorska w Słupsku",
+        "Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach"
+    ],
+    
+    "Uniwersytety": [
+        "Uniwersytet Warszawski",
+        "Uniwersytet w Białymstoku",
+        "Uniwersytet Gdański",
+        "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+        "Uniwersytet Jagielloński w Krakowie",
+        "Uniwersytet Łódzki",
+        "Uniwersytet Marii Curie-Skłodowskiej w Lublinie",
+        "Uniwersytet Mikołaja Kopernika w Toruniu",
+        "Uniwersytet Opolski",
+        "Uniwersytet Szczeciński",
+        "Uniwersytet Śląski w Katowicach",
+        "Uniwersytet Rzeszowski",
+        "Uniwersytet Warmińsko-Mazurski w Olsztynie",
+        "Uniwersytet Wrocławski",
+        "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",
+        "Uniwersytet Zielonogórski",
+        "Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
+        "Uniwersytet Jana Kochanowskiego w Kielcach"
+    ],
+    "ilosc_pedagogicznych": 5,
+    "ilosc_uniwersytetow": 18
+}
