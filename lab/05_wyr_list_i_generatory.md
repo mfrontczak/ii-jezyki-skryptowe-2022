@@ -94,61 +94,21 @@ filtered_arr = [value for value in arr if value % 2 == 0]
 print(f"Nasza lista po zastosowaniu filtra:{filtered_arr}")
 ```
 
-<!-- 
+
 ### Transformacja danych
 
 ```python
 arr = [1, 5, 3, 4, 2, 7, 8, 9, 10, 12, 11, 16, 14]
 
 powered_arr = [x**2 for x in arr] 
--->
-
-### Funkcje anonimowe (lambda)
-Przy pomocy słowa kluczowego `lambda` definiujemy jedno-wierszową funkcję z kodem. 
-Funkcje anonimowe mają zastosowanie w momencie kiedy chcemy przekazać proste wyrażenie jako parametr do innej funkcji np. `sorted`.
-
-Przykład 1:
-```python
-# takiej funkcji nie da się wywołać poprzez nazwę
-lambda x: x**2
-# Sposób jednorazowego wywołania
-(lambda x: x**2)(10)
-```
-Przykład 2:
-```python
-# niby-anonimowa, bo nazwana
-pow = lambda x: x**2
-print(pow(2))
 ```
 
-Przykład 3:
-```python
-d = {
-    'klucz1': 2,
-    'klucz2': 4,
-    'klucz3': 3,
-    'klucz4': 1
-}
-print(sorted(d))
-print(sorted(d.items()))
+✏️ Napisz skrypt w którym utworzyć dwie listy przy pomocy wyrażeń listowych.
 
-print(sorted(d.items(), key=lambda item: item[0]))
-```
+✏️ Napisz skrypt w którym zbudujesz macierz 4x4 korzystając z wyrażeń listowych.
 
-### Sortowanie danych
+✏️ Napisz skrypt w którym podniesiesz do potęgi wartości w poprzedniej macierzy.
 
-Przykład 1:
-```python
-arr = [1, 4, 5, 6, 1, 3, 4, 7, 8]
-print(sorted(arr))
-print(sorted(arr, reverse=True))
-```
+✏️ Napisz skrypt w którym wygenerujesz listę 100 liczb, nie będącymi liczbami pierwszymi. 
 
-Przykład 2:
-```python
-words = ["ala", "ma", "kota", "i", "psa"]
-print(sorted(words))
-print(sorted(words, reverse=True))
-```
-
-:book: Proszę przeczytać https://docs.python.org/3.9/library/functions.html#sorted, aby dowiedzieć się więcej.
+✏️ Napisz skrypt w którym użytkownik poda listę imion a następnie listę liter które posłużą jako filtr. Wszystkie podane litery powinny znajdować się w imieniu. 
