@@ -27,6 +27,8 @@ for (i, r) in genr:
     
 ```
 
+💡 w zadanich wykorzystaj moduł https://docs.python.org/3/library/string.html.
+
 ✏️ Stwórz generator który będzie zwracał kolejne litery alfabetu.
 
 ✏️ Zapoznaj się z modułem [random](https://docs.python.org/3.9/library/random.html), Korzystając z funkcji `random.choice`, napisz generator który będzie zwracał losowe alfa-numeryczne znaki.
