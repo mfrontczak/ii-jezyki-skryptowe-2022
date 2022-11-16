@@ -27,7 +27,7 @@ JS L1 Jan Kowalski
   - [02 - Funkcje](lab/02_funkcje.md)
   - [03 - Algorytmy](lab/03_algorytmy.md)
   - [04 - Pliki i wyjątki](lab/04_pliki_i_wyjatki.md)
-  - [05 - ...](lab/05_wyr_list_i_generatory.md)
+  - [05 - Wyrażenia listowe i generatory](lab/05_wyr_list_i_generatory.md)
   - [06 - ...](#)
   - [07 - ...](#)
   - [09 - ...](#)
