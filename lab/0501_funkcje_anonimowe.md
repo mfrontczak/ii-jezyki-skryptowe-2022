@@ -1,4 +1,23 @@
 # Lab 5 - cd.
+
+## Sortowanie danych
+
+Przykład 1:
+```python
+arr = [1, 4, 5, 6, 1, 3, 4, 7, 8]
+print(sorted(arr))
+print(sorted(arr, reverse=True))
+```
+
+Przykład 2:
+```python
+words = ["ala", "ma", "kota", "i", "psa"]
+print(sorted(words))
+print(sorted(words, reverse=True))
+```
+
+:book: Proszę przeczytać https://docs.python.org/3.9/library/functions.html#sorted, aby dowiedzieć się więcej.
+
 ## Funkcje anonimowe (lambda)
 Przy pomocy słowa kluczowego `lambda` definiujemy jedno-wierszową funkcję z kodem. 
 Funkcje anonimowe mają zastosowanie w momencie kiedy chcemy przekazać proste wyrażenie jako parametr do innej funkcji np. `sorted`.
@@ -30,21 +49,3 @@ print(sorted(d.items()))
 
 print(sorted(d.items(), key=lambda item: item[0]))
 ```
-
-## Sortowanie danych
-
-Przykład 1:
-```python
-arr = [1, 4, 5, 6, 1, 3, 4, 7, 8]
-print(sorted(arr))
-print(sorted(arr, reverse=True))
-```
-
-Przykład 2:
-```python
-words = ["ala", "ma", "kota", "i", "psa"]
-print(sorted(words))
-print(sorted(words, reverse=True))
-```
-
-:book: Proszę przeczytać https://docs.python.org/3.9/library/functions.html#sorted, aby dowiedzieć się więcej.
