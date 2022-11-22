@@ -28,12 +28,13 @@ JS L1 Jan Kowalski
   - [03 - Algorytmy](lab/03_algorytmy.md)
   - [04 - Pliki i wyjątki](lab/04_pliki_i_wyjatki.md)
   - [05 - Wyrażenia listowe i generatory](lab/05_wyr_list_i_generatory.md)
-  - [06 - ...](#)
-  - [07 - ...](#)
-  - [09 - ...](#)
-  - [10 - ...](#)
-  - [11 - ...](#)
-  - [.. - Tworzenie modułów i paczek](#)
+  - [06 - dekoratory funkcji](#)
+  - [07 - Klasy](#)
+  - [08 - Obiekty Pythonowe](#)
+  - [09 - Iteratory](#)
+  - [10 - Wyrażenia regularne](#)
+  - [11 - Tworzenie modułów i paczek](#)
+  - [12 - Testowanie kodu](#)
     
 
 ## przydatne linki
