@@ -79,14 +79,14 @@ print(f"Zeszyt Jimmiego formatu {jimmys_notebook.paper_size} służy mu do przed
 
 ## Zadania
 
-### Zadanie 1
+✏️ Zadanie 1
 
 Zaimplementuj klasę `Pet`:
 
 * Klasa powinna posiadać atrybut `name` do przechowywania jego imienia.
 * Klasa powinna posiadać atrybut `age` do przechowywania jego wieku.
 
-### Zadanie 2
+✏️ Zadanie 2
 
 Zaimplementuj klasę `Rocket`:
 
@@ -94,7 +94,7 @@ Zaimplementuj klasę `Rocket`:
 * Rakieta powinna posiadać zmienną `fuel`.
 * Rakieta powinna definiować funkcję która policzy ile paliwa zostanie zużyte aby wzbić się na wysokość `h`.
 
-### Zadanie 3
+✏️ Zadanie 3
 
 Zaimplementuj klasę `Box`:
 
@@ -103,7 +103,7 @@ Zaimplementuj klasę `Box`:
 * Dodaj metodę `put_in` z parametrem `other_box`, metoda `put_in` powinna sprawdzać czy rozmiar pudełka które chcemy umieścić wewnątrz jest mniejszy od wolnej przestrzeni.
 
 
-### Zadanie 4
+✏️ Zadanie 4
 
 Utwórz klasę `CrazyStrings` która będzie udostęniać następujące metody:
 * `__init__` z parametrem `text`.
@@ -156,6 +156,8 @@ class Data:
 d = Data.dzisiaj()  # Utworzy nową instancję obiektu z klasy Data z dzisiejszą datą.
 ```
 
-✏️ Napisz metodę klasy dla klasy `Data` zwracającą nowy obiekt z datą wczorajszą.
+## Zadania
+
+✏️ Napisz metodę klasową dla klasy `Data` zwracającą nowy obiekt z datą wczorajszą.
 
 ✏️ Napisz metodę statyczną dla klasy `Data` zmieniającą datę zapisaną w stringu w formacie USA "MM/DD/YYYY" na format europejski "DD/MM/YYYY". 
