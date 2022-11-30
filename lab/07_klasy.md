@@ -111,3 +111,51 @@ Utwórz klasę `CrazyStrings` która będzie udostęniać następujące metody:
 * `poke` który wyświetli tekst naprzemiennie zmieniając litery na małe i duże. 
 * `random` która wyświetli tekst w losowym stylu (dwóch powyższych).
 
+## Metoda statyczna
+`@staticmethod` jest wbudowanym dekoratem. 
+Metoda statyczna jest powiązana z klasą w której się znajduje i **nie posiada** dostępu do atrybutów klasy. 
+Nie jest wymagane podawanie żadnych parametrów. 
+
+```python
+from datetime import datetime
+
+class Data:
+    def __init__(self, rok, miesiac, dzien):
+        self.rok = rok
+        self.miesiac = miesiac
+        self.dzien = dzien
+    
+    @staticmethod
+    def czy_dzisiejsza(rok, miesiac, dzien):
+        dzis = datetime.now()
+        return rok == dzis.year and miesiac == dzis.month and dzien == dzis.day
+
+
+print(Data.czy_dzisiejsza(1997, 7, 18))  # sprawdzi czy podana data jest dzisiejsza.
+```
+
+## Metoda klasowa
+`@classmethod` jest wbudowanym dekoratem.
+Metoda klasowa jest powiązana z klasą w której się znajduje i **posiada** dostęp do jej atrybutów.
+Pierwszym parametrem w metodzie klasowej jest (musi być) `cls`, który odnosi się do klasy a nie instancji konkretnego obiektu. 
+
+```python
+from datetime import datetime
+
+class Data:
+    def __init__(self, rok, miesiac, dzien):
+        self.rok = rok
+        self.miesiac = miesiac
+        self.dzien = dzien
+    
+    @classmethod
+    def dzisiaj(cls):
+        dzis = datetime.now()
+        return cls(dzis.year, dzis.month, dzis.day)
+
+d = Data.dzisiaj()  # Utworzy nową instancję obiektu z klasy Data z dzisiejszą datą.
+```
+
+✏️ Napisz metodę klasy dla klasy `Data` zwracającą nowy obiekt z datą wczorajszą.
+
+✏️ Napisz metodę statyczną dla klasy `Data` zmieniającą datę zapisaną w stringu w formacie USA "MM/DD/YYYY" na format europejski "DD/MM/YYYY". 
