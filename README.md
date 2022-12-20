@@ -31,8 +31,8 @@ JS L1 Jan Kowalski
   - [06 - dekoratory funkcji](lab/06_dekoratory_funkcji.md)
   - [07 - Klasy](lab/07_klasy.md)
   - [08 - Obiekty Pythonowe](lab/08_obiekty_pythonowe.md)
-  - [09 - Iteratory](#)
-  - [10 - Wyrażenia regularne](#)
+  - [09 - Iteratory](lab/09_iteratory.md)
+  - [10 - Wyrażenia regularne](lab/10_regex.md)
   - [11 - Tworzenie modułów i paczek](#)
   - [12 - Testowanie kodu](#)
     
