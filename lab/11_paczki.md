@@ -100,11 +100,6 @@ zad1()
 
 📖 Proszę przeczytać https://www.geeksforgeeks.org/python-packages/, aby dowiedzieć się więcej.
 
-## Publikacja paczki w publicznym repozytorium
-
-https://pypi.org/account/register/
-
-
 ## Środowiska wirtualne
 Środowiskiem wirtualnym w pythonie nazywamy odseparowane od siebie instancje pythona - okrojone kopie środowiska bazowego. 
 Pozwala nam to na równocześną współpracę nad różnymi pod względem modułów i wersji projektami. 
