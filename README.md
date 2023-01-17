@@ -34,7 +34,7 @@ JS L1 Jan Kowalski
   - [09 - Iteratory](lab/09_iteratory.md)
   - [10 - Wyrażenia regularne](lab/10_regex.md)
   - [11 - Tworzenie modułów i paczek](lab/11_paczki.md)
-  - [12 - Testowanie kodu](#)
+  - [12 - Testowanie kodu](lab/12_testowanie.md)
     
 
 ## przydatne linki
