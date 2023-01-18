@@ -3,6 +3,7 @@
 ## Materiały pomocnicze
 1. testująca koza - https://www.obeythetestinggoat.com/
 2. https://pl.wikipedia.org/wiki/Test-driven_development
+3. https://docs.pytest.org/en/7.1.x/getting-started.html
 
 ## Podział
 * **testy jednostkowe** (unit tests) — testujemy pojedynczą jednostkową część taką jak funkcje, metody czy klasy
