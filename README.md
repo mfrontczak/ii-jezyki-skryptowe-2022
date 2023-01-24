@@ -35,6 +35,7 @@ JS L1 Jan Kowalski
   - [10 - Wyrażenia regularne](lab/10_regex.md)
   - [11 - Tworzenie modułów i paczek](lab/11_paczki.md)
   - [12 - Testowanie kodu](lab/12_testowanie.md)
+  - [13 - Automatyzacja](lab/13_automatyzacja.md)
     
 
 ## przydatne linki
